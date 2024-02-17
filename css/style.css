@@ -1,7 +1,14 @@
-
 *{
     padding: 0px;
     margin: 0px;
+}
+.accordion-item {
+    margin-bottom: 20px; /* Add margin bottom to create gap between each question */
+    background-color: rgb(186, 235, 186);
+    color: rgb(67, 67, 67);
+}
+.accordion-button{
+    border: 1px solid black;
 }
 body{
     margin: 0px;
