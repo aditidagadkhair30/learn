@@ -9,10 +9,11 @@ body{
 }
 .content{
     /* border: 2px solid black; */
-    margin-bottom: 20px;
+    /* margin-bottom: 20px; */
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin-top: 50px;
 }
 .content-2{
     display: flex;
@@ -25,6 +26,9 @@ body{
 }
 .container p {
     text-align: justify;
+}
+.filler{
+    height: 96px;
 }
 .rounded-btn {
     border-radius: 50px; /* Adjust the value to make the button more or less round */
