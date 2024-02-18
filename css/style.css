@@ -50,6 +50,9 @@ body{
     border: white;
     padding: 12px 24px;
 }
+.team-images{
+    justify-content: center;
+}
 .text {
     text-align: justify;
 }
