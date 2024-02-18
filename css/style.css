@@ -7,9 +7,9 @@
     background-color: rgb(186, 235, 186);
     color: rgb(67, 67, 67);
 }
-.accordion-button{
-    border: 1px solid black;
-}
+/* .accordion-button{
+     border: 0.5px solid black;
+} */
 body{
     margin: 0px;
     padding: 0px;
@@ -33,7 +33,7 @@ body{
     text-align: justify;
 }
 .filler{
-    height: 96px;
+    height: 120px;
 }
 
 .rounded-btn {
