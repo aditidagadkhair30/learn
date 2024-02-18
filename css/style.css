@@ -54,6 +54,9 @@ body{
     text-align: justify;
 }
 
+ul li a{
+    font-family: "Merriweather", serif;
+}
 
 /* media queries */
 @media screen and (max-width:579px){
@@ -73,3 +76,4 @@ body{
         margin-bottom: 15px;
     }
 }
+
